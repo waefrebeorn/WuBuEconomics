@@ -33,6 +33,15 @@ Every finding. Every source. Every filing.**
 - Proper financing: penny anchor, WuBu Penny experiment, transparent economics, stability over extraction.
 - **Simulation shipped and verified** (`tools/status_loop.py`): scarcity → status 1.00 forever (class locked); abundance → 0.80 (fades); feedback → 0.00 (DEAD — superiority is boring). The doctrine is now math.
 
+### ECO-4 / RND-11 — The Land Question (filed + tools)
+- **Georgism filed:** Henry George, *Progress and Poverty* (1879) — land is fixed, land value is social, rent is unearned; the remedy is a Land Value Tax on unimproved value. Champions: Smith, Ricardo, Friedman ("the least bad tax"), Stiglitz, Simon, Vickrey, World Bank, Australian Treasury.
+- **The billboard:** the citizen's memory filed — the vacant-lot sign *"Everybody works but the vacant lot. I paid $35,000 for this lot and will hold it till I get $60,000"* (late 19th c. poster) and Fay Lewis's 1914 Rockford, IL billboard — economics education by public spectacle, first of its kind.
+- **Boomers filed without rage:** captured beneficiaries, not cause — cheap housing (2.5× income then vs 7.1× now), rising wages, public investment, demographics; also their own cage (trickle-down lie, illiquid house-wealth, fear). Blame the structure, never the person.
+- **Rage-free pedagogy (4 rules):** blame structure not person; file the position first; find the shared enemy (unearned capture); offer the transition not the accusation.
+- **Boomer bridge:** acknowledge achievement, neutral math, grandfather past gains, shared target.
+- **Understanding program:** economy as a filing system, billboards of the first ones (reviving 1914), the penny curriculum, the complaint file (rage = WBI-1 data).
+- **Tools shipped and verified:** `tools/vacant_lot.py` — capture (vacant-lot unearned gain), generations (2.9× harder, no rage), lvt (Georgist fix in numbers).
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
