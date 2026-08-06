@@ -50,6 +50,15 @@ Every finding. Every source. Every filing.**
 - **Tool shipped and verified:** `tools/lifespan_loop.py` — 32→2 gens LOW, 73→3 MODERATE, 84→4 HIGH, timeline 1900-2050 (2→4 gens). Rage-free: blame the structure (lifespan), never the person.
 - **Curriculum addition:** five penny lessons (river penny, deep penny, loud penny, captured penny, stack penny).
 
+### ECO-6 / RND-13 — The Nexus Doctrine (filed + tools)
+- **Resource question filed:** the economy is the scoreboard, resources are the game; automation replaced slave-like human procedures — so the question became "who owns the machines," not "who earns wages."
+- **The Nexus event (citizen's concept, filed):** vertical integration with moral insulation — a society forbids slavery-like dynamics internally and encourages them externally (the smartphone seam: slave-free design, unfiled extraction). The space refuses the seam: public penny supply chain, Bureau watches everywhere.
+- **The pacifier economy:** monetary gain as sedative for those who need to win; new generations raised already kneeling (soft enculturation); chaotic elements allowed to exist "until they are emaciated with dementia" — burnout as demographic endgame.
+- **Two age processes:** human (~80yr) vs political (centuries) — they decouple; the gap is paid in human biology.
+- **The numbing science — citizen is literally right:** Koob opponent-process — acute stress activates dopamine, chronic exposure DOWNREGULATES it (blunted D2R, hypodopaminergic brain; Volkow imaging). Stress accelerates biological aging: telomere shortening (Epel & Blackburn, PNAS 2004), epigenetic clock acceleration, DNA damage. Supplements/work help but structural neuroadaptations don't fully reverse — "certain elements that electrically cause numbing" is the best plain-language summary of the neurobiology.
+- **The anti-Nexus filed:** refuse the seam, un-kneel the pedagogy, treat stress as a resource (low-stress by design: no gouging, scores reward calm), decouple the age processes (institutions serve humans, not reverse).
+- **Tool shipped and verified:** `tools/numbing.py` — CALM 0.95 (intact), MODERN 0.64 (numbing), NEXUS 0.09 (EMACIATED, structural).
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
