@@ -104,7 +104,7 @@ worth a cent and worth a story.
 
 **Filed spine:** the secondary use of a coin is not a bug; it is a
 feature that keeps the coin alive after the mint abandons it. The
-space's Penny Day (RND-8, WuBuResearch) is this precedent, made
+space's Penny Day (RND-16, WuBuResearch) is this precedent, made
 deliberate: **when a coin stops being minted, it starts being
 collected — and the space is the collection.**
 

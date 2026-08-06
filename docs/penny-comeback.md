@@ -93,7 +93,7 @@ affection, not anger.**
 
 ### Principle 4 — Penny Day is the megaphone
 
-Any issue with the penny plan → **Penny Day** (RND-8): novelty
+Any issue with the penny plan → **Penny Day** (RND-16): novelty
 coinage, celebration, the dispute becomes a holiday. Penny Day is
 the campaign's loudest voice: it shows the country (and the world)
 that the penny is loved, held, weighed, chained, and *wanted*.
