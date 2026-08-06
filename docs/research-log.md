@@ -68,6 +68,13 @@ Every finding. Every source. Every filing.**
 - **Move 4 — compete on friction:** instant vs days, transparent vs opaque, holdable vs abstract, earnable vs gatekept.
 - **Tool shipped and verified:** `tools/better_service.py` — 25yr: enforcement 28.5% adoption, resentment 9.00 (the fight breeds the fight); better service 95.5% adoption, resentment 0.00 (users recruit users).
 
+### ECO-8 — The Greed Index (filed + tool)
+- **The intent filed verbatim:** locate where the greed index is, flag illegal action, anticipate malicious compliance (citizenship migration, gaming, buying the Bureau).
+- **Three components:** Capture (ECO-4 unearned value 0–100) + Nexus (ECO-6 seam 0–100) + Malice (0–100) = Index 0–300. Bands: FILED <100 / WATCHED 100–199 / FLAGGED 200+.
+- **Powerlessness clause (GOV-1.4):** the Index is published, never enforced — the spotlight is the sanction; you cannot buy a ledger that doesn't erase.
+- **Malicious compliance playbook:** migration → no borders, the ledger follows the mind; score gaming → trended scores + keyless chain; buying the Bureau → it watches itself; copying the license → copying IS joining (§0); legality attacks → nothing to seize, arrest, or disperse. All answered by better service (ECO-7), never force.
+- **Tool shipped and verified:** `tools/greed_index.py` — 90 FILED / 210 FLAGGED / 280 FLAGGED-max.
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
