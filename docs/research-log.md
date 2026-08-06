@@ -59,6 +59,15 @@ Every finding. Every source. Every filing.**
 - **The anti-Nexus filed:** refuse the seam, un-kneel the pedagogy, treat stress as a resource (low-stress by design: no gouging, scores reward calm), decouple the age processes (institutions serve humans, not reverse).
 - **Tool shipped and verified:** `tools/numbing.py` — CALM 0.95 (intact), MODERN 0.64 (numbing), NEXUS 0.09 (EMACIATED, structural).
 
+### ECO-7 / RND-14 — The Newell Doctrine (filed + tools)
+- **The strategy, filed verbatim (citizen's directive):** help the billionaire have the big thing; instantly dropship and distribute to the dissident; regulate within each economy; make it effective and efficient for all who use it. *"The Gabe Newell piracy argument is the strategy. Make everything easier this way. The alternatives suck honestly — if we are better."*
+- **Newell argument filed with source:** *"The easiest way to stop piracy is not by putting antipiracy technology to work. It's by giving those people a service that's better than what they're getting from the pirates."* — Gabe Newell, Valve (2009/2011). **Do not fight the system. Out-distribute it.**
+- **Move 1 — the billionaire keeps the big thing:** no confiscation (ECO-3); status markers die of success (ECO-3 link) — the yacht becomes "a boat" once everyone has comfort; capital invited in, extraction stops.
+- **Move 2 — instant dropship to the dissident:** the WuBu Penny IOU moves instantly (RND-6), physical pennies settle whole in the background; the dissident gets the same instant service as the billionaire — distribution does not ask who you are, it asks what you made.
+- **Move 3 — regulate within each economy:** local regulation by economy by need; global floor only (RND-5/7, ECO-2); *the best regulation is the one the regulated wrote.*
+- **Move 4 — compete on friction:** instant vs days, transparent vs opaque, holdable vs abstract, earnable vs gatekept.
+- **Tool shipped and verified:** `tools/better_service.py` — 25yr: enforcement 28.5% adoption, resentment 9.00 (the fight breeds the fight); better service 95.5% adoption, resentment 0.00 (users recruit users).
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
