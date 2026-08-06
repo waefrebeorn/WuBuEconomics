@@ -42,6 +42,14 @@ Every finding. Every source. Every filing.**
 - **Understanding program:** economy as a filing system, billboards of the first ones (reviving 1914), the penny curriculum, the complaint file (rage = WBI-1 data).
 - **Tools shipped and verified:** `tools/vacant_lot.py` — capture (vacant-lot unearned gain), generations (2.9× harder, no rage), lvt (Georgist fix in numbers).
 
+### ECO-5 / RND-12 — The Inflation of Everything (filed + tools)
+- **Four inflations filed (citizen's doctrine):** environmental (each generation inherits a degraded planet — the river free for grandpa, bottled for the child), resource (the easy oil is gone; every barrel costs more energy), idea (novelty inflates — the first voice is a prophet, the ten-thousandth a cliché), attention (finite capacity, spiraling scarcity — only ~0.5% of generated info is attended to; attention mined like ore). All four are ONE inflation: the cost of being born later.
+- **Attention economy research filed:** UN "Attention Economy" brief, ScienceDirect 2023 (spiral of attention scarcity), Georgetown (cognitive autonomy collapse).
+- **The Lifespan Loop (citizen's deepest filing):** the generational "cycle" is not a cycle — it's a measurement: generations alive = lifespan ÷ gap. 1900 global lifespan ~32yr → ~2 generations; 2026 ~73yr → 3-4; Japan 84yr → 4-5. Medical advancement stacks generations; the "generational war" is demographic crowding — five generations queued in an economy inflated four times. The war is a side effect of the victory over death.
+- **Verified anchors:** Our World in Data (32yr 1900, 73yr 2026), Song 2019 PMC (children now spend large share of life with living grandparents — stacks grew).
+- **Tool shipped and verified:** `tools/lifespan_loop.py` — 32→2 gens LOW, 73→3 MODERATE, 84→4 HIGH, timeline 1900-2050 (2→4 gens). Rage-free: blame the structure (lifespan), never the person.
+- **Curriculum addition:** five penny lessons (river penny, deep penny, loud penny, captured penny, stack penny).
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
