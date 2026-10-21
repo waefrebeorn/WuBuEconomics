@@ -1,6 +1,6 @@
 # Precedents — Money Out of Style, Secondary Use, Tokens & Cards
 
-**Economics Division filing ECO-1 (cross-filed RND-8). Sources: all
+**Economics Division filing ECO-1. Sources: all
 filed, dated, cited.**
 
 ---
@@ -193,7 +193,7 @@ The space's position on government, filed:
    value again, and to heal the economy with proper financing and
    proper economics.
 
-## Research log entries (ECO-1 / RND-8)
+## Research log entries (ECO-1)
 
 - ECO-1.1: Canada penny phase-out filed — 2012 budget, 2013 withdrawal, cash rounding, $55.58M/yr consumer cost (source: budget.canada.ca, Richmond Fed 2025)
 - ECO-1.2: India demonetization filed — 86% of currency, 99% returned, "no healthy economy has ever done it" (source: BBC, Brookings, Harvard)

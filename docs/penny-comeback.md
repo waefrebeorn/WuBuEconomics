@@ -1,6 +1,6 @@
 # The Penny Comeback — Campaign to Bring Back the Penny
 
-**Economics Division filing ECO-2 (cross-filed RND-9). The cultural
+**Economics Division filing ECO-2. The cultural
 campaign: stabilize the currency by restoring intrinsic value.**
 
 ---
@@ -46,7 +46,7 @@ is a rounding error. With it, the cent has a body.
 
 ### 3. The penny has a fixed supply (filed RND-5, RND-7)
 
-~114 billion pennies exist; the last was minted Nov 12, 2025; the
+~114 billion pennies exist; the last was minted early 2026; the
 Common Cents Act (H.R. 3074, passed House July 2026) would make the
 halt permanent. A currency unit with a *hard, physical, verifiable
 cap* is the rarest monetary asset in history. Bringing the penny
@@ -138,11 +138,11 @@ penny's survival — it is **intrinsic value**: the principle that
 money should mean something you can hold. The penny is the argument.
 The campaign is the voice. The space is the proof.
 
-## Research log entries (ECO-2 / RND-9)
+## Research log entries (ECO-2)
 
-- ECO-2.1: Rounding tax filed — Richmond Fed $55.58M/yr, regressive (source: richmondfed.org)
+- ECO-2.1: Rounding tax filed — Richmond Fed $55.58M/yr, regressive (source: richmondfed.org); H.R.3074 §3(c) cash-rounding provisions: $0.01-0.02 → $0.05; 25 state laws, 20 enacted, Arizona mandates
 - ECO-2.2: Cent-anchor doctrine filed — dollar = 100 cents, cent needs a body
-- ECO-2.3: Fixed supply filed — 114B, last minted Nov 12 2025, Common Cents Act H.R. 3074
+- ECO-2.3: Fixed supply filed — 114B, last minted early 2026, Common Cents Act H.R. 3074
 - ECO-2.4: No-gouge principle filed — stabilization, never speculation
 - ECO-2.5: Petition drafted — public, proper channels, published reasoning
 - ECO-2.6: All-branches-win matrix filed

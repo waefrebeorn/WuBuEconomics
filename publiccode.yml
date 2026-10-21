@@ -1,0 +1,39 @@
+publiccodeYmlVersion: 0.5.0
+name: WuBuEconomics
+url: https://github.com/waefrebeorn/WuBuEconomics
+landingURL: https://waefrebeorn.org
+softwareVersion: "1.0.0"
+releaseDate: 2026-08-06
+platforms:
+  - web
+  - linux
+categories:
+  - digital-citizenship
+  - collaboration
+developmentStatus: beta
+softwareType: standalone/other
+description:
+  en:
+    localisedName: WuBuEconomics
+    shortDescription: >-
+      The Economics Division of the ~ WuBu ~ space: money, land,
+      inflation, the Nexus, and the Greed Index — filed as doctrine
+      with tools.
+    longDescription: >-
+      WuBuEconomics studies the economics of the world and files
+      the solutions. The penny standard, the land question, the
+      inflation of everything, the Nexus doctrine, the Newell
+      distribution doctrine, and the Greed Index — each doctrine
+      ships a tool (status_loop, vacant_lot, lifespan_loop,
+      numbing, better_service, greed_index).
+    features:
+      - The Penny Comeback and the penny standard
+      - The Land Question (Georgism/LVT) with vacant_lot
+      - The Inflation of Everything with lifespan_loop
+      - The Nexus Doctrine with numbing
+      - The Newell Doctrine with better_service
+      - The Greed Index with greed_index
+legal:
+  license: WaefreBeorn-Umbrella-3.0
+  mainCopyrightOwner: WaefreBeorn
+  repoOwner: waefrebeorn

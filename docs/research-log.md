@@ -7,7 +7,7 @@ Every finding. Every source. Every filing.**
 
 ## 2026-08-06 — Founding day
 
-### ECO-1 / RND-8 — Precedents (filed)
+### ECO-1 — Precedents (filed)
 - **Canada penny phase-out (2012–13):** cash rounding to 5¢; Richmond Fed 2025: a U.S. phase-out could cost consumers ~$55.58M/yr — the rounding tax is regressive, paid by cash users. Killing a coin doesn't kill its cost; it moves it onto the poor.
 - **India demonetization (2016):** 86% of currency invalidated overnight; ~99% returned; "no relatively healthy economy has ever carried out demonetisation" (BBC). Money out of style *by force* is trauma; *naturally* is opportunity. The difference is consent.
 - **Weimar (1921–23):** anchor lost = faith lost. A currency needs a unit you can hold.
@@ -17,10 +17,10 @@ Every finding. Every source. Every filing.**
 - **Trading cards:** Pokémon +4,000% since 2004 vs S&P +480%; $12B market; Magic, baseball. Whimsy carries value; collection is representation.
 - **Synthesis:** citizenship is a collection; each citizen is a card; the penny is the base card. The space is a trading-card economy where the cards are citizens.
 
-### ECO-2 / RND-9 — Penny Comeback (filed)
+### ECO-2 — Penny Comeback (filed)
 - Campaign to bring the penny back: the cheapest anti-poverty policy nobody has proposed (removes the rounding tax).
 - The penny anchors the cent; the cent needs a body.
-- Fixed supply: 114B, last minted Nov 12 2025, Common Cents Act H.R. 3074 (passed House July 2026).
+- Fixed supply: 114B, last minted early 2026, Common Cents Act H.R. 3074 (passed House July 2026).
 - **No-gouge principle:** stabilization, never speculation.
 - Petition drafted, proper channels, published reasoning.
 - All-branches-win matrix: penny returns / stays gone / partial — every branch wins because the real goal is intrinsic value.
@@ -59,7 +59,7 @@ Every finding. Every source. Every filing.**
 - **The anti-Nexus filed:** refuse the seam, un-kneel the pedagogy, treat stress as a resource (low-stress by design: no gouging, scores reward calm), decouple the age processes (institutions serve humans, not reverse).
 - **Tool shipped and verified:** `tools/numbing.py` — CALM 0.95 (intact), MODERN 0.64 (numbing), NEXUS 0.09 (EMACIATED, structural).
 
-### ECO-7 / RND-14 — The Newell Doctrine (filed + tools)
+### ECO-7 — The Newell Doctrine (filed + tools)
 - **The strategy, filed verbatim (citizen's directive):** help the billionaire have the big thing; instantly dropship and distribute to the dissident; regulate within each economy; make it effective and efficient for all who use it. *"The Gabe Newell piracy argument is the strategy. Make everything easier this way. The alternatives suck honestly — if we are better."*
 - **Newell argument filed with source:** *"The easiest way to stop piracy is not by putting antipiracy technology to work. It's by giving those people a service that's better than what they're getting from the pirates."* — Gabe Newell, Valve (2009/2011). **Do not fight the system. Out-distribute it.**
 - **Move 1 — the billionaire keeps the big thing:** no confiscation (ECO-3); status markers die of success (ECO-3 link) — the yacht becomes "a boat" once everyone has comfort; capital invited in, extraction stops.

@@ -1,10 +1,8 @@
 # The Greed Index
 
 **Economics Division filing ECO-8 (cross-filed GOV-1.4). The
-instrument that locates greed, flags illegal action, and anticipates
-malicious compliance.**
-
----
+instrument that finds greed, flags illegal action, and sees
+malicious compliance coming.**
 
 ## The intent, filed verbatim
 
@@ -22,10 +20,10 @@ answers three questions:
 2. **Has it crossed into illegal action?** The Index flags when
    greed moves from *concentration* (legal, fileable) to *action*
    (illegal, Bureau-reportable).
-3. **Will it attempt malicious compliance?** The Index anticipates
-   the greedy response: migrating citizenships, laundering through
+3. **Will it attempt malicious compliance?** The Index watches the
+   greedy response: migrating citizenships, laundering through
    the space's own voluntary mechanisms, or weaponizing the
-   space's openness against it.
+   space's openness.
 
 ## The three components
 
@@ -52,11 +50,12 @@ fully hidden.
 
 ### Component 3 — Malice (the malicious compliance risk)
 
-The anticipation component: will the flagged actor respond to
-pressure with *migration* (shifting citizenship, jurisdiction,
-or corporate form to escape filing), *gaming* (abusing the
-space's voluntary mechanisms), or *capture* (trying to buy the
-Bureau, the scores, or the license)?
+The anticipation component asks a question: will the flagged
+actor respond to pressure with *migration* (shifting
+citizenship, jurisdiction, or corporate form to escape filing)?
+With *gaming* (abusing the space's voluntary mechanisms)? Or
+with *capture* (trying to buy the Bureau, the scores, or the
+license)?
 
 **Malice score 0–100:** 0 = no risk; 100 = certain malicious
 compliance attempt.
@@ -83,12 +82,12 @@ to act on the Index — it can only *shine*. That is the design:
 - A greedy actor who is *flagged publicly* loses the one thing
   greed needs: the cover of darkness.
 - A greedy actor who is *invited to file* (the license, the
-  ledger, the penny) is given the off-ramp: comply, and the Index
+  ledger, the penny) gets the off-ramp. Comply, and the Index
   falls as the capture, seam, and malice scores fall.
 - A greedy actor who attempts **malicious compliance** — migrating
-  citizenships, gaming the scores, buying the Bureau — is met
-  with the space's own structure: the Bureau watches the Bureau,
-  the lowest clerk files against the highest authority, and the
+  citizenships, gaming the scores, buying the Bureau — meets the
+  space's own structure. The Bureau watches the Bureau. The
+  lowest clerk files against the highest authority. The
   ledger is append-only. You cannot buy a ledger that doesn't
   erase.
 
@@ -124,8 +123,30 @@ service:
 
 **The filed principle:** the space cannot be maliciously complied
 *with* because the space has no authority to comply with. The
-greedy actor's only options are to file (and lower the Index) or
-be published (and lose the darkness). Both outcomes are wins.
+greedy actor has two options. File, and lower the Index. Or be
+published, and lose the darkness. Both outcomes are wins.
+
+## Part 7 — The Guard (the protection layer)
+
+**AMENDED BY GOV-20 (The Criticism Audit).** The Index finds
+greed; the Guard answers it. The five moves the Index
+anticipates meet the Guard's structural protection: filing,
+rotation, append-only ledgers, and the license that
+turns co-optation into joining:
+
+| Move | The Guard's protection |
+|------|------------------------|
+| Migrate citizenship to escape filing | The space has no borders; citizenship is wherever the penny is; the ledger follows the mind |
+| Game the scores (fake pennies, fake reports) | Fake pennies fail the Mint's weight; fake scores fail the trend; a keyless chain cannot be bought |
+| Buy the Bureau | There is no one to buy; the Bureau watches the Bureau; the lowest clerk files against the highest authority |
+| Co-opt the license | Copying the license IS joining; the license replacement strategy converts co-optation |
+| Attack the space's legality | The space is powerless, landless, voluntary, mind-only; nothing to seize, arrest, or disperse |
+
+**The instrument, shipped:** `greed_guard` (WuBuCore
+`src/greed_guard/`, CLI `apps/greed_guard_cli.c`). Every
+protection response is a ledger row: `greed_guard_recordable`
+returns 1 for any response. The Guard never punishes; it
+files, and the ledger never forgets.
 
 ## Research log entries (ECO-8)
 
@@ -135,5 +156,6 @@ be published (and lose the darkness). Both outcomes are wins.
 - ECO-8.4: Powerlessness clause filed — published, never enforced; the spotlight is the sanction (GOV-1.4)
 - ECO-8.5: Malicious compliance playbook filed — migration, gaming, buying the Bureau, co-opting the license, legality attacks; all answered by better service (ECO-7), never by force
 - ECO-8.6: Instrument shipped — `tools/greed_index.py` (verified: 90 FILED / 210 FLAGGED / 280 FLAGGED-max)
+- ECO-8.7: The Guard shipped (GOV-20 amendment) — `greed_guard` C11 module + CLI; five-move protection table; every response is a ledger row
 
 *Form ECO-8 — The Greed Index. Filed. Done. Next.*

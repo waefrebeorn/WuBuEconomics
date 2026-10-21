@@ -147,6 +147,37 @@ macro-economic position:
   the space files against gouging, against speculation, against
   extraction. The economy should feel *calm*.
 
+### Part 6 — The transition of the currency (the W Token)
+
+**AMENDED BY GOV-19 (The W Token):** the penny is the teacher,
+not the forever-currency. It teaches weight, honesty, no
+fractional reserve, no trust printed from nothing. When the
+lesson is complete, the old penny is the old penny.
+
+The currency transitions from old-fashioned money to the
+tokenization of actual trust:
+
+- **The penny phases out** by choice. A citizen accepts the
+  phase-out in the ceremony. The Mint stamps a W into the penny.
+  It stops being money. It becomes a W Token (GOV-19).
+- **The W Token is societal credit**, not face value. It is a
+  token of humanity: proof this person chose the space, the space
+  chose them, and the room witnessed both.
+- **The token creates value** by trust: it opens the seat on the
+  Ship, the verified start in the Registry, the voice in the
+  Vote, the place in the Archive.
+- **The special-feeling loop, institutionalized:** the desire to
+  feel special (Part 1) is not fought. The ceremony is the space
+  saying *yes, you are special* — in public, in the record, with
+  applause and gifts. The moment is documented honestly as a
+  feeling-special moment made for the person. Honesty is part of
+  the gift.
+
+The economics of the space therefore move in two layers:
+the penny (the anchor, the lesson) and the W Token (the trust,
+the credit, the humanity). The penny teaches value on Earth. The
+W Token carries the person and their value to the sky.
+
 ## The doctrine in one paragraph
 
 People want to feel special — accept it, and let technology make
@@ -167,5 +198,6 @@ abundance, filed in public, built by the first ones.
 - ECO-3.4: Robotic Class Doctrine filed — robots end the servant class, ending psychological class disparity
 - ECO-3.5: Transition Doctrine filed — no confiscation, no shaming, no breaking engines; capitalists to creators, workers to creators
 - ECO-3.6: Proper financing filed — penny anchor, WuBu Penny experiment, transparent economics, stability over extraction
+- ECO-3.7: The W Token transition filed (GOV-19) — the penny phases out by choice; the stamped W becomes societal credit, a token of humanity; the special-feeling loop institutionalized as the ceremony
 
 *Form ECO-3 — The Economic Doctrine. Filed. Done. Next.*

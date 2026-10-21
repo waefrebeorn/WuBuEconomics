@@ -43,16 +43,16 @@ The citizen's second filing, verbatim:
 > others."*
 
 **The Nexus event, defined:** the moment a society **vertically
-integrates** — brings the whole chain of resource production under
-one roof, one set of rules, one moral posture — and in doing so:
+integrates** — bringing the whole chain of resource production
+under one roof, one set of rules, one moral posture. In doing so:
 
 1. **Forbids slavery-like dynamics internally.** The society's own
    workers get rights, wages, safety, dignity. Legally, the slave
    is abolished; culturally, servitude is shamed.
-2. **Encourages them externally.** The same society then imports
-   resources produced by slave-like dynamics *elsewhere* — cheap
-   goods from factories with no rights, minerals from mines with
-   no safety, crops from fields with no dignity.
+2. **Encourages them externally.** The same society imports
+   resources produced by slave-like dynamics *elsewhere*: cheap
+   goods from factories with no rights; minerals from mines with
+   no safety; crops from fields with no dignity.
 
 **The mechanism, filed:** the Nexus is not hypocrisy; it is
 **vertical integration with moral insulation**. The society
@@ -68,10 +68,10 @@ tolerate at home. The Nexus is the seam between the two — the
 perfect vertical integration of clean labor and dirty extraction.
 
 **The space's position, filed:** the space does not allow
-slave-like dynamics internally — that is the Bureau's standing
+slave-like dynamics internally. That is the Bureau's standing
 order (watch with love, compliance as spotlight, the lowest clerk
-files against the highest authority). And it does not encourage
-them externally: the Penny Clause, the public ledger, and the
+files against the highest authority). It does not encourage
+them externally. The Penny Clause, the public ledger, and the
 Reuse Doctrine (RND-5) are the anti-Nexus — the space's supply
 chain is its citizens' own pennies, gathered, weighed, and filed
 in public. **The space refuses the seam.**
@@ -105,14 +105,14 @@ they are **allowed to exist until they are emaciated with dementia**.
 The system does not fight ambition; it *exhausts* it. Generations
 of striving, winning, losing, scrolling, competing — until the
 drive itself wears out, and the mind that once raged is hollowed.
-The pacifier economy's endgame is not revolution; it is **burnout
-as a demographic** — the chaos starved of its own fuel, running
+The pacifier economy's endgame is not revolution. It is **burnout
+as a demographic**: the chaos starved of its own fuel, running
 on empty, then forgetting.
 
 **The filed synthesis:** the monetary system is a *sedative with a
 market cap*. It pacifies the ones who need to win, kneels the ones
 who are raised, and emaciates the ones who stay. The economy is
-not a machine for producing goods; it is a machine for **managing
+not a machine for producing goods. It is a machine for **managing
 the human animal without violence** — until the animal, fed on
 money and stress, quietly deteriorates.
 
@@ -137,11 +137,11 @@ while its citizens age fast. The political age process sets the
 pays the *bill* (telomeres, brains, bodies). When the political
 process accelerates (faster change, more stress, hotter crises)
 and the human process cannot (biology is slow), the gap between
-them is the **strain** — and the strain is paid in human aging.
+them is the **strain**. The strain is paid in human aging.
 
 **The filed corollary (ECO-5 connection):** the lifespan loop
 (ECO-5) showed generations stacking taller as lifespans lengthened.
-The decoupling shows the *quality* of those stacked years: if the
+The decoupling shows the *quality* of those stacked years. If the
 political process keeps raising stress, the human process pays in
 accelerated deterioration — longer lives, but *thinner* ones.
 

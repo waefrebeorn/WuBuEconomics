@@ -48,8 +48,8 @@ wealth disparity without breaking the people who built it?*
 | Path | What |
 |------|------|
 | `README.md` | This charter |
-| `docs/precedents.md` | The worldwide research: money going out of style, secondary use, tokens & trading cards (RND-8 filing, sourced) |
-| `docs/penny-comeback.md` | The campaign: bring back the penny, stabilize the currency, restore intrinsic value (RND-9) |
+| `docs/precedents.md` | The worldwide research: money going out of style, secondary use, tokens & trading cards (filed ECO-1) |
+| `docs/penny-comeback.md` | The campaign: bring back the penny, stabilize the currency, restore intrinsic value (ECO-2) |
 | `docs/economic-doctrine.md` | The doctrine: the transition from class to comfort, the special-feeling feedback loop (RND-10) |
 | `docs/research-log.md` | The division's running log |
 | `tools/` | Working implementations (real code, tested) |
@@ -79,4 +79,17 @@ wealth disparity without breaking the people who built it?*
 > We are the first ones. The universe is scary, and we will
 > fund it properly.
 
-*Form ECO-0 — Economics division charter. Filed. Done. Next.*
+*Form ECO-8 — Economics division charter + Greed Index. Filed. Done. Next.*
+
+<!-- GENERATED-INDEX -->
+## Index (generated)
+
+The **generated filing index** lives in [`INDEX.md`](INDEX.md) — produced by `tools/govgen.py index` from `registry/filings.json`. Never hand-edit it; edit the registry and regenerate.
+
+## License
+
+**WaefreBeorn Umbrella License v3.0** (see [LICENSE](LICENSE)). The
+master license for all WaefreBeorn work: the populace is free, the
+corporation is an entity of money. Anyone may use this license for
+their own work — and by doing so, their work becomes part of the
+~ WuBu ~ space. Includes the physical Penny Clause.

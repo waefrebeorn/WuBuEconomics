@@ -1,6 +1,6 @@
 # The Newell Doctrine — Distribution Over Enforcement
 
-**Economics Division filing ECO-7 (cross-filed RND-14). The strategy
+**Economics Division filing ECO-7. The strategy
 of the whole space: be better, not louder. Beat the alternatives by
 being the alternative.**
 
@@ -158,7 +158,7 @@ not to attack it, but to give people a service that's better than
 what the bad system gives them.** The alternatives suck. The space
 is better. People choose better when better is easy. Make it easy.
 
-## Research log entries (ECO-7 / RND-14)
+## Research log entries (ECO-7)
 
 - ECO-7.1: Newell doctrine filed — "the easiest way to stop piracy is... a service that's better than what they're getting from the pirates" (source: Valve/Gabe Newell, 2009-2011 interviews)
 - ECO-7.2: Move 1 filed — billionaire keeps the big thing; status markers die of success (ECO-3 link); invited in, extraction stops
